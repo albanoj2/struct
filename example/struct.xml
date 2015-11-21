@@ -1,0 +1,6 @@
+<project>
+    <dependencies>
+        <dependency type="git" url="test.git" />
+        <dependency type="git" url="test_another.git" />
+    </dependencies>
+</project>
